@@ -1,0 +1,22 @@
+#map {
+    width:auto;
+    height:650px;
+    background-color:beige;
+}
+
+.my-label{
+    color:aqua;
+    background-color:blue;
+    
+    font-style:italic;
+    font-family: arial;
+    font-size: 14px;
+    color:crimson;
+    font-weight: bold;
+}
+
+
+.def-style{
+    color: "#F2F7FA";
+    opacity: 1;
+}
